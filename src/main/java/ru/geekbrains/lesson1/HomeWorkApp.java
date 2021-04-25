@@ -7,6 +7,8 @@ public class HomeWorkApp {
         printColor();
         compareNumbers();
         System.out.println("Учусь пользоваться GitHub");
+        System.out.println("Учусь пользоваться GitHub");
+
     }
     public static void printThreeWords(){
         System.out.println("Orange");
